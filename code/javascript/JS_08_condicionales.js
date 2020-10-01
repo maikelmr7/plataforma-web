@@ -18,10 +18,10 @@ function imprimirPersona( objeto ) {
         console.log( `Es Ingeniero.` )
     }
     if (objeto.master) {
-        console.log( `Es Magíster.` )
+        console.log( `Es Master.` )
     }
     if (objeto.doctor) {
-        console.log( `Es Doctor.` )
+        console.log( `Es Dr.` )
     }
 }
 

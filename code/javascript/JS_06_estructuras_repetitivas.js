@@ -1,10 +1,10 @@
 let persona = {
     nombre: `Michael`,
     apellido: `Reyes`,
-    peso: 150, 
+    peso: 160, 
 }
 
-const INCREMENTAR_PESO = 4
+const INCREMENTAR_PESO = 3
 const DECREMENTAR_PESO = 2
 
 const aumentarPeso = ( objeto ) => objeto.peso += INCREMENTAR_PESO

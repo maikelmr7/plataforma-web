@@ -13,7 +13,7 @@ do {
 } while( !avanzar() )
 
 if ( contador == 1 ) {
-    console.log( `Se avanzó ${contador} vez.` )
+    console.log( `Avanzó ${contador} vez.` )
 } else {
-    console.log( `Se avanzó ${contador} veces.` )
+    console.log( `Avanzó ${contador} veces.` )
 }
