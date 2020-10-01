@@ -4,7 +4,7 @@ let persona = {
     peso: 150, 
 }
 
-const INCREMENTAR_PESO = 3
+const INCREMENTAR_PESO = 4
 const DECREMENTAR_PESO = 2
 
 const aumentarPeso = ( objeto ) => objeto.peso += INCREMENTAR_PESO
